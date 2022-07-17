@@ -106,10 +106,16 @@ p{
 
 .footer{
 	background-color:#DEE7E7;
-	text-align: right;
-	padding: 10px;
+	text-align: left;
+	padding: 15px;
 }
 
+figure{
+	float: left;
+	text-align: center;
+	font-style: italic;
+	
+}
 
 
 
