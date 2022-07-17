@@ -98,6 +98,20 @@ p{
 	text-align: left;
 }
 
+.header{
+	background-color:#DEE7E7;
+	text-align: right;
+	padding: 15px;
+}
+
+.footer{
+	background-color:#DEE7E7;
+	text-align: right;
+	padding: 10px;
+}
+
+
+
 
 
 
